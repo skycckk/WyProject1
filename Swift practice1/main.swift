@@ -10,13 +10,7 @@ import Foundation
 
 println("Hello, World!")
 
+var x = 0.0, y = 0.0, z = 0.0
+var friendlyWelcome = "Hello"
 
-var name: String = "王小明"
-var age: Int = 3
-var height: Double = 50
-println("Name:\(name) Age:\(age)")
-
-
-let pi: Double = 3.1415967
-
-println("PI: \(pi)")
+println("This current value of friendlyWelcome is \(friendlyWelcome)")
