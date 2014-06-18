@@ -72,4 +72,16 @@ println(possibleString!)
 let assumedString: String! = "An implicitly unwrapped optional string"
 println(assumedString)
 
+// Floating-Point Remainder Calculations
+println("8 % 2.5 = \(8 % 2.5)")
 
+// Range Operator
+let names = ["Anna", "Alex", "Brian", "Jack"]
+let count = names.count
+for i in 0..count
+{
+    println("Person \(i + 1) is called \(names[i])")
+}
+
+let stringExample = StringAndCharacters()
+stringExample.printExample()
