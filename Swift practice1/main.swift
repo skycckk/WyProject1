@@ -85,3 +85,6 @@ for i in 0..count
 
 let stringExample = StringAndCharacters()
 stringExample.printExample()
+
+let collectionExample = CollectionType()
+collectionExample.printExample()
