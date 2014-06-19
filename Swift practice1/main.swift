@@ -88,3 +88,6 @@ stringExample.printExample()
 
 let collectionExample = CollectionType()
 collectionExample.printExample()
+
+let controlFlow = ControlFlow()
+controlFlow.printExample()
